@@ -8,3 +8,5 @@ def hello_component(name):
 """)
 
 hello_component('world')
+
+#you can deploy app with heroku
